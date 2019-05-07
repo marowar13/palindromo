@@ -1,4 +1,5 @@
-"""Confirmar si una palabra es un palindromo"""
+"""Confirmar si una palabra es un palindromo
+Wilson Quintero """
 palabra=input("Escriba una palabra:  ")
 
 ini=0
