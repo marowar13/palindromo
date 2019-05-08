@@ -1,7 +1,8 @@
 """Confirmar si una palabra es un palindromo
 Wilson Quintero """
+# Palindromo
 palabra=input("Escriba una palabra:  ")
-
+input
 ini=0
 fin=len(palabra)-1
 
